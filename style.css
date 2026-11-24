@@ -950,15 +950,10 @@ a{
 }
 
 
-
-
 /* MOBILE RESPONSIVE */
 
 @media screen and (max-width: 480px){
-    
 
-   
-}
     .container{
         width: 92%;
     }
